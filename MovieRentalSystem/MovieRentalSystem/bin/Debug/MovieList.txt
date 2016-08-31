@@ -1,0 +1,21 @@
+//Bach Tuan Phan; Action; haha; 1995
+Add; Action; Addon; 1996
+Phan; Horror; Tuan; 2001
+//Bach; Action; Haha; 1999
+Pokemon; Comedy; Pikachu; 2015
+Batman V Superman; Action; Ben Affleck; 2016
+Batman Begins; Action; Christian Bale; 2005
+Iron Man 3; Action; Robert Downey Jr; 2013
+Iron Man 3; Action; Robert Downey Jr; 2013
+The Avengers; Action; Robert Downey Jr, Chris Evans; 2012
+Captain America: CIvil War; Action; Chris Evans and Robert Downey Jr; 2016
+Captain America: CIvil War; Action; Chris Evans and Robert Downey Jr; 2016
+Dead Pool; Action; Ryan Reynolds; 2016
+Captain America: CIvil War; Action; Chris Evans and Robert Downey Jr; 2016
+Dead Pool; Action; Ryan Reynolds; 2016
+This is the end; Comedy; James Franco, Seth Rogen, an Jonah Hill; 2013
+Pokemon First Movie; Action; Pikachu; 2000
+Name: Pokemon Darkrai; Genre: Action; Main Actor: Darkrai and Pikachu; Year Release: 2011
+avenger; Horror; chris; 1992
+avenger; Horror; chris; 1992
+witch; Horror; sophia; 1992
